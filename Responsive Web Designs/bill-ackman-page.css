@@ -1,0 +1,54 @@
+/* This is the corresponding CSS file that goes along with the bill-ackman-page.html file. This is created as a solution to the first project
+posed in FreeCodeCamp */
+
+<style>
+body {
+  font-family: system-ui;
+  background: white;
+  color: white;
+  text-align: center;
+}
+
+#title {
+  color: black;
+  text-align: center;
+}
+
+#main {
+  color: grey;
+  text-align: center;
+}
+
+#img-div {
+  color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#image {
+  border-radius: 50%;
+}
+
+#tribute-info {
+  font-size: 20px;
+  font-family: arial;
+}
+
+.square {
+  height: 1000px;
+  width: 1000px;
+  background-color: #FAEBD7;
+}
+
+#tribute-link {
+  color: black;
+  font-size: 15px;
+}
+</style>
